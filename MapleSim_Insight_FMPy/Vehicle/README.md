@@ -13,6 +13,7 @@ The following instructions are for Windows operating system. To be able to run t
 * Fully install the FMPy using the following command line:
 
 `conda install -c conda-forge fmpy`
+
 https://fmpy.readthedocs.io/en/latest/install/
 * Install the keyboard and jupyter notebook:
 
