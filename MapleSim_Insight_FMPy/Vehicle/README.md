@@ -23,3 +23,5 @@ https://fmpy.readthedocs.io/en/latest/install/
 
 * With the new env activated, open a jupyter notebook session and browse to `NFS.ipynb`.
 * Make sure that you have a working MapleSim Insight installation. Evaluating the cell with `simulate_custom_input()` should invoke an Insight session. Alternatively, you can open `Vis.simData` first where the visualization windows are set for you. Run the script, use the 5,2,1,and 3 Numpad keys to control the vehicle and have fun!
+Checkout an example video output here
+https://www.youtube.com/watch?v=vfkOTaQvEC4&ab_channel=SimInsider
